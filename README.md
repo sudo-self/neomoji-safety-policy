@@ -37,4 +37,4 @@ We are committed to protecting user privacy. Our privacy policy outlines how use
 
 We continuously review and improve our policies, tools, and partnerships to ensure a safe environment for all users. We are dedicated to regularly updating our CSAE prevention measures to address emerging challenges.
 
-For more information or to report concerns, please visit our support page: [https://www.neomoji.com/support](https://www.neomoji.com/support).
+For more information or to report concerns, please contact the developer: [Neomoji Developer](mailto:jesse@jessejesse.com).
